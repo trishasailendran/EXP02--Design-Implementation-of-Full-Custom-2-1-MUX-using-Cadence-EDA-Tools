@@ -63,7 +63,8 @@ iii)	Creating the Symbol for schematic Cell view
 •	Check for the position of pin side.Prss OK
 •	Edit for the shape by Create-Shape-Choose required options to edit.
 
- ![image](https://github.com/user-attachments/assets/ca09de2d-ba22-415f-a189-26893cdcc446)
+![Screenshot (161)](https://github.com/user-attachments/assets/6119eee7-2547-4dc5-829a-d0a66bd5d444)
+
 
 
 iv)	Creating the new test cell view
@@ -74,7 +75,10 @@ iv)	Creating the new test cell view
 	View: Schematic
 	Type: Schematic press OK
 •	Follow the step 3(ii) d to make the required connections
- ![image](https://github.com/user-attachments/assets/85b7456e-1902-4ac2-8291-6ae6035dd0a2)
+![Screenshot (162)](https://github.com/user-attachments/assets/a3476735-0d06-48a5-a776-d1eb6efa967b)
+![Screenshot (163)](https://github.com/user-attachments/assets/a810f203-90cb-46f6-b640-f6944dcb58ca)
+
+
 
 Analog simulation by SPECTRE.
 •	In test cell view window
