@@ -81,7 +81,6 @@ iv)	Creating the new test cell view
 
 
 
-
 Analog simulation by SPECTRE.
 •	In test cell view window
 •	Launch – ADE L(Analog Design Environment)
